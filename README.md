@@ -4,6 +4,12 @@ This repo is made to collect as much as possible about the first G-Book version 
 ## Introduction
 Hi, I just bought a Cypha and the G-Book really interested me since it's almost like I'm driving a 2002 tesla with all the features it has. To further inform people about it I made this repo. In here you can also find some specific tips on installing old medium for Windows XP executables and other fun info about the car
 
+## Note
+I gathered all the executables from the internet archive and I will only use it
+for locality and ease of use. Wherever you want to download a file the original
+page is linked. This means you do not need to download it from here if you do
+not trust it.
+
 ## Table of Contents
 - General 
     - [Music](./General/Music.md) (WIP done by this week)

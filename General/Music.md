@@ -5,7 +5,6 @@ To add more music to your SD-card you should insert your card into the computer 
 
 
 # Sources
-
 Link to info:
 https://web.archive.org/web/20160803003508/g-book.com/pc/whats_G-BOOK/for-auto/default.asp
 

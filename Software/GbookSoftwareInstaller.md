@@ -16,15 +16,28 @@ The installation process is quite hard, compared to normal .exe installations.
 The way I managed it:
 Install a virtual machine with windowsXP installed. (also install a japanese language pack to safe you some headaches later on).
 
+Go to the Internet Archive and install the GBook Software Installer. (link in sources)
 
-Go to the Internet Archive and install the GBook Software Installer. //TODO add link.
+When installing you will encounter one main error with an .msi file. 
+Install this file locally within your Virtual Machine and write down the website.
 
-When installing you will encounter one main error with an .msi file.
+Finally go to your `hosts` file in your virtual machine and add a new line with 
+`{website_url} 127.0.0.1` 
+This will stop the installer from trying to reach the url and find it locally. 
 
+Proceed with the installation according to the manual (in sources)
+
+//TODO More descriptive errors.
+//TODO Redo error, make screenshot and insert.
 
 ## Sources
-Gbook SDDOWNLOAD tool manual:
+G-Book SDDOWNLOAD tool:
+http://g-book.com:80/downloads/SDDOWNLOADAPL/Windows/V1.20/GbookDlSetup.exe
+
+Also can be found in this repo [here](./GbookDlSetup.exe)
+
+G-Book SDDOWNLOAD tool manual:
 https://g-book.com/downloads/SDDOWNLOADAPL/Manual/Windows/v1.20/GbookDLmanual.pdf
 
-Gbook Maps on demand info
+G-Book Maps on demand info
 https://tconnect.jp/faq/mod/howto/2035.html
