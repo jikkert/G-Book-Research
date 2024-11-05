@@ -18,17 +18,19 @@ Install a virtual machine with windowsXP installed. (also install a japanese lan
 
 Go to the Internet Archive and install the GBook Software Installer. (link in sources)
 
-When installing you will encounter one main error with an .msi file. 
-Install this file locally within your Virtual Machine and write down the website.
+When installing you will encounter one main error with an isscript.msi file. With the link off installengine.com. This is an installation breaking error and took me some time to find the solution.
+For the solution I found [this reddit post](https://www.reddit.com/r/techsupport/comments/c6pull/comment/hi7zk0a/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+The isscript.msi file that needs to be installed can be found [here](https://web.archive.org/web/20050218191725/http://installengine.com/cert02/isengine/isscript.msi) in the internet archive.
 
-Finally go to your `hosts` file in your virtual machine and add a new line with 
-`{website_url} 127.0.0.1` 
+Finally go to your `hosts` file in your virtual machine (C:\WINDOWS\system32\driver\etc\hosts) and add the following lines to the bottom of the file.
+
+`www.installengine.com 127.0.0.1` 
+
+`installengine.com 127.0.0.1` 
+
 This will stop the installer from trying to reach the url and find it locally. 
 
 Proceed with the installation according to the manual (in sources)
-
-//TODO More descriptive errors.
-//TODO Redo error, make screenshot and insert.
 
 ## Sources
 G-Book SDDOWNLOAD tool:
@@ -41,3 +43,9 @@ https://g-book.com/downloads/SDDOWNLOADAPL/Manual/Windows/v1.20/GbookDLmanual.pd
 
 G-Book Maps on demand info
 https://tconnect.jp/faq/mod/howto/2035.html
+
+The reddit post that saved the installation:
+https://www.reddit.com/r/techsupport/comments/c6pull/comment/hi7zk0a/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+The file that needs to be installed:
+https://web.archive.org/web/20050218191725/http://installengine.com/cert02/isengine/isscript.msi
