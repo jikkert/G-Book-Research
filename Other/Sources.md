@@ -15,12 +15,11 @@ https://megalodon.jp/2017-0620-1538-02/g-book.com/pc/whats_G-BOOK/for-auto/defau
 Manual of book installer
 https://g-book.com/downloads/SDDOWNLOADAPL/Manual/Windows/v1.20/GbookDLmanual.pdf
 
-Tech journal about the gbook system (quite general info not very interesting)
+Tech journal about the G-Book system (quite general info not very interesting)
 https://www.denso-ten.com/business/technicaljournal/pdf/23note1.pdf
 
 ## SD-Play
-
-
+No concrete sources of SD-Play found.
 
 ## Maps 
 For more info from the .exe files please refer to the Internet Archive:
@@ -32,6 +31,8 @@ https://tconnect.jp/faq/mod/howto/2035.html
 ## Games
 
 All manuals:
+https://web.archive.org/web/*/http://g-book.com/downloads/sd_play/manual/*
+They can also be found at /Games/Manuals/
 
 The reddit where it all started (lots of tertiary sources):
 https://www.reddit.com/r/SonicTheHedgehog/comments/191hg3d/possibly_lost_sonic_media_found_in_my_2003_toyota/

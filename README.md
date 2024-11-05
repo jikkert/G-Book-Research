@@ -28,6 +28,8 @@ not trust it.
 This library is as active as I can be with a full time job. So please if there is information you found that is not in here, contact me or add the info later.
 
 There are some things I am personally really curious about and I do not have information about. So if you have it again please contact me.
+
 Most Wanted:
 - A karaoke file. I'm searching for a karaoke file so I can see how to remake these and what format the Will Cypha supports
 - Any translated files, due to my lack of Japanese language and translate being quite slow. Translated files will really boost my productivity in this library.
+- Games. Some SD cards have bought games on them and I would like to have the whole collection to really see what the capability is of the Cypha. So If you have some please share them to the community.
